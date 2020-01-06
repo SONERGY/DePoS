@@ -1,2 +1,1 @@
-
-Immutable, secured, valid, Proof of Survey-Researched data result 
+Immutable, secured, valid, Proof of Survey-Researched data result
